@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Listeners Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="54.572">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="3.964" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="VerifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="16.763" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="VerifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="16.528" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToComputerPageSuccessfully" time="1.390" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="VerifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="15.927" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+      
+</testsuite>
